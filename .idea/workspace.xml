@@ -1,17 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="be06e0e7-2978-46ca-8974-53a5086f8cb6" name="Changes" comment="" />
+    <list default="true" id="be06e0e7-2978-46ca-8974-53a5086f8cb6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdjacentElementsProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdjacentElementsProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChangeWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChangeWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinearSearching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinearSearching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MakeArrayConsecutive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MakeArrayConsecutive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RecursiveLinearSearching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RecursiveLinearSearching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TotalNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TotalNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/almostIncreasingSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/almostIncreasingSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shapeArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapeArea.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2EvPYdap7seZHfAyJ1ONwvMhSMl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,9 +45,56 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.MakeArrayConsecutive">
+    <configuration name="AdjacentElementsProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdjacentElementsProduct" />
+      <module name="SearchingAndSorting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChangeWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChangeWord" />
+      <module name="SearchingAndSorting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
+      <module name="SearchingAndSorting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakeArrayConsecutive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MakeArrayConsecutive" />
+      <module name="SearchingAndSorting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TotalNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TotalNumber" />
+      <module name="SearchingAndSorting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MakeArrayConsecutive" />
+        <item itemvalue="Application.AdjacentElementsProduct" />
+        <item itemvalue="Application.ChangeWord" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.TotalNumber" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +105,16 @@
       <updated>1663473136182</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

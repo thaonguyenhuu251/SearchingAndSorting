@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class shapeArea {
+public class shapeArea {
+    int solution(int n) {
+        return n*n + (n-1)*(n-1);
+    }
 }
